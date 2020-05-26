@@ -1,0 +1,14 @@
+
+numpy
+scipy
+matplotlib
+panda
+opencv-python
+scikit-learn 
+ipython
+pydicom
+ipywidgets
+scipy
+
+
+
